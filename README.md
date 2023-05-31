@@ -2,7 +2,7 @@
 
 ## Why?
 
-有个问题问了一下ChatGPT,然后试了试让他实现.
+有个问题问了一下ChatGPT,然后试了试让他实现. (所有代码都是由ChatGPT生成的，除了我写的脚本)
 
 ## What?
 
@@ -21,3 +21,6 @@ rainbow这个C程序使用彩虹的颜色对输出文本进行输出，输出每
 对于你的例子 printHello | rainbow，printHello 程序每隔1秒输出一个不同语言的"你好"，而 rainbow 程序会对输入的文本进行彩虹颜色的处理并输出。因此，在这个组合命令中，printHello 的输出会立即传递给 rainbow 进行处理，并且这两个程序会同时执行，实现连续的输出和彩虹颜色处理。
 
 下面是简单的实现示例，分别是 printHello 和 rainbow 程序的代码：
+
+## Result
+
