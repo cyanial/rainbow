@@ -24,3 +24,4 @@ rainbow这个C程序使用彩虹的颜色对输出文本进行输出，输出每
 
 ## Result
 
+![result](result.png)
